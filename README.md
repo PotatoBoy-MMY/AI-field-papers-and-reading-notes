@@ -9,3 +9,5 @@
    - [MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](<多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pptx>)  
      使用改良的Pareto应用于多模态学习领域，解决了原有的Pareto应用于多模态学习领域会损害模型泛化能力的问题  
      论文链接：[MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](https://doi.org/10.48550/arXiv.2405.17730)
+2. RAG领域
+   - [Retrieval-Augmented Generation for Large Language Models A Survey]
