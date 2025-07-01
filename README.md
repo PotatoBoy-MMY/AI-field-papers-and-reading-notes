@@ -4,6 +4,6 @@
 
 本仓库中的 **笔记** 采用 **CC BY-NC-SA 4.0**，详见 [LICENSE_CC_BY_NC_SA.txt]，请您合理使用
 
-##目录
-1.多模态
-  -[MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pptx)
+## 目录
+1. 多模态
+  - [MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](<多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pptx>)
