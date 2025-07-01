@@ -6,4 +6,4 @@
 
 ## 目录
 1. 多模态
-  - [MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](<多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pptx>)
+   - [MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](<多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pptx>)
