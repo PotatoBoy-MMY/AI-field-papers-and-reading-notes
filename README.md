@@ -16,5 +16,5 @@
      
 2. RAG领域
    - [Retrieval-Augmented Generation for Large Language Models A Survey](<RAG/Retrieval-Augmented Generation for Large Language Models A Survey.pdf>)  
-     一篇RAG的综述文章，适合想要初步了解这个方向的学习者
+     一篇RAG的综述文章，适合想要初步了解这个方向的学习者  
      论文链接：[Retrieval-Augmented Generation for Large Language Models A Survey](https://simg.baai.ac.cn/paperfile/25a43194-c74c-4cd3-b60f-0a1f27f8b8af.pdf)
