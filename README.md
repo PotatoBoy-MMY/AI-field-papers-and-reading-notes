@@ -12,7 +12,7 @@
      
    - [Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment](<多模态/Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment.pdf>)
      本篇论文基于团队上一研究成果，通过引入CKA标准衡量单模态编码器间的相似性，挑选出较为相似的编码器对，并且通过一个轻量化的投影器将其连接在一起，实现多模态能力
-     论文链接：[Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment](<https://openaccess.thecvf.com/content/CVPR2025/papers/Maniparambil_Harnessing_Frozen_Unimodal_Encoders_for_Flexible_Multimodal_Alignment_CVPR_2025_paper.pdf>）
+     论文链接：[Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment](<https://openaccess.thecvf.com/content/CVPR2025/papers/Maniparambil_Harnessing_Frozen_Unimodal_Encoders_for_Flexible_Multimodal_Alignment_CVPR_2025_paper.pdf>)
      
 2. RAG领域
    - [Retrieval-Augmented Generation for Large Language Models A Survey](<RAG/Retrieval-Augmented Generation for Large Language Models A Survey.pdf>)  
