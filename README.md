@@ -4,6 +4,8 @@
 
 本仓库中的 **笔记** 采用 **CC BY-NC-SA 4.0**，详见 [LICENSE_CC_BY_NC_SA.txt]，请您合理使用仓库中的文件
 
+##点击标题即可直达笔记
+
 ## 笔记目录
 1. 多模态领域
    - [MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance](<多模态/MMPareto Boosting Multimodal Learning with Innocent Unimodal Assistance.pdf>)  
