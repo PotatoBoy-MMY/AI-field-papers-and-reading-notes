@@ -20,7 +20,7 @@
      本篇论文研究了使用投影器实现的VLM中投影器造成的表征信息损失，并研究了这种损失对于模型性能的影响  
      论文链接：[Lost in Embeddings: Information Loss in Vision–Language Models](<https://arxiv.org/pdf/2509.11986>)
 
-   - [Quantifying Representation Reliability in Self-Supervised Learning Models](<多模态/Quantifying Representation Reliabilityin Self-Supervised Learning Models.pdf>) 
+   - [Quantifying Representation Reliability in Self-Supervised Learning Models](<多模态/Quantifying Representation Reliabilityin Self-Supervised Learning Models.pdf>)   
      本片论文研究了在没有下游任务的场景下，我们如何度量自监督的预训练模型产生的表征的质量，这直接影响了使用预训练模型进行微调的下游任务模型的性能  
      论文链接：[Quantifying Representation Reliability in Self-Supervised Learning Models](<https://arxiv.org/pdf/2306.00206>)  
      
